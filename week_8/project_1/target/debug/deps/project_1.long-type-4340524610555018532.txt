@@ -1,0 +1,1 @@
+(&'static str, {integer}, {integer}, Vec<&str>)
