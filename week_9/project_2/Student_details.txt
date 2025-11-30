@@ -1,0 +1,6 @@
+S/N..Name                Matric No......Dept......Level
+----------------------------------------
+1....Adekunle,J.         PAU/CSC/19/001.CSC.......400..
+2....Owen,C.             PAU/INF/20/123.INF.......300..
+3....Muhammad,A.         PAU/ACC/21/456.ACC.......200..
+4....Chijoke,A.          PAU/FIN/22/789.FIN.......100..
