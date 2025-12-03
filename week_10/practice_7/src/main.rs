@@ -1,4 +1,3 @@
-#[derive(Debug)]
 struct Employee {
     name: String,
     company: String,
